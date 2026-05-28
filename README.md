@@ -37,7 +37,7 @@ _`README.md` 是否会被默认读取?_
 
 > 本文优先采用官方文档作为证据。
 
-- [Codex CLI](#codex)：`0.134.0`
+- [Codex CLI](#codex)：`0.135.0`
 - [Claude Code](#claude-code)：`none`
 - [Gemini CLI](#gemini-cli)：`none`
 - [Cursor](#cursor)：`none`
@@ -144,7 +144,7 @@ project_doc_max_bytes = 32768
 [codex-project-instructions-doc]: https://developers.openai.com/codex/config-advanced#project-instructions-discovery
 [codex-config-reference-doc]: https://developers.openai.com/codex/config-reference
 [codex-skills-doc]: https://developers.openai.com/codex/skills
-[codex-agents-src]: https://github.com/openai/codex/blob/rust-v0.134.0/codex-rs/core/src/agents_md.rs
-[codex-root-src]: https://github.com/openai/codex/blob/rust-v0.134.0/codex-rs/config/src/project_root_markers.rs
-[codex-skills-src]: https://github.com/openai/codex/blob/rust-v0.134.0/codex-rs/core-skills/src/loader.rs
-[codex-tag]: https://github.com/openai/codex/tree/rust-v0.134.0
+[codex-agents-src]: https://github.com/openai/codex/blob/rust-v0.135.0/codex-rs/core/src/agents_md.rs
+[codex-root-src]: https://github.com/openai/codex/blob/rust-v0.135.0/codex-rs/config/src/project_root_markers.rs
+[codex-skills-src]: https://github.com/openai/codex/blob/rust-v0.135.0/codex-rs/core-skills/src/loader.rs
+[codex-tag]: https://github.com/openai/codex/tree/rust-v0.135.0
