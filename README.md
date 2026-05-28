@@ -9,7 +9,7 @@
 
 <p>
   <b>简体中文</b> ·
-  <a href="#">English</a> ·
+  <a href="./README.en.md">English</a> ·
   <a href="https://github.com/cclilshy/agent-context-map/issues">提交 Issue</a>
 </p>
 
